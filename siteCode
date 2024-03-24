@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello Red!</title>
+    <style>
+        /* CSS to style the text */
+        .red-text {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <!-- HTML content with red text -->
+    <h1 class="red-text">Hello</h1>
+</body>
+</html>
